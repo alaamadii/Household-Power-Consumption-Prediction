@@ -32,14 +32,15 @@ based on features like Voltage, Global_intensity, and Sub_metering values.
     python model.py
     ```
    this will :
-        Train the model on the dataset
-        Predict power consumption on the test set
-        Print the Mean Squared Error (MSE) and R² score
-        Display a scatter plot showing the relationship between actual vs predicted power values
+        Train the model on the dataset,
+        Predict power consumption on the test set,
+        Print the Mean Squared Error (MSE) and R² score,
+        Display a scatter plot showing the relationship between actual vs predicted power values.
 
 ## Dataset Source
 the dataset used in this project is from kaggle:
 [Household Power Consumption Dataset](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set)
  
+
 
 # Authored by Alaa Madi
