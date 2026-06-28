@@ -46,8 +46,6 @@ based on features like Voltage, Global_intensity, and Sub_metering values.
 
 ## Demo and Screenshots
 
-**Demo Video:**  
-[Watch here on Google Drive](https://drive.google.com/file/d/1OuyEFFNxwoe11hislYlm0Cz1Kpl9f3zz/view?usp=sharing)
 
 **Screenshot:**  
 ![Application Screenshot](photo/photo.png)
